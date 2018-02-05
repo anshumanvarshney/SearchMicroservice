@@ -1,0 +1,8 @@
+/Users/coviam/Desktop/mongoExample/src/main/java/com/example/mongoExample/controller/EmployeeController.java
+/Users/coviam/Desktop/mongoExample/src/main/java/com/example/mongoExample/MongoExampleApplication.java
+/Users/coviam/Desktop/mongoExample/src/main/java/com/example/mongoExample/repository/EmployeeRepository.java
+/Users/coviam/Desktop/mongoExample/src/main/java/com/example/mongoExample/services/impl/EmployeeServiceImpl.java
+/Users/coviam/Desktop/mongoExample/src/main/java/com/example/mongoExample/services/EmployeeService.java
+/Users/coviam/Desktop/mongoExample/src/main/java/com/example/mongoExample/entity/Employee.java
+/Users/coviam/Desktop/mongoExample/src/main/java/com/example/mongoExample/dto/EmployeeDTO.java
+/Users/coviam/Desktop/mongoExample/src/main/java/com/example/mongoExample/entity/GeneratedValue.java
